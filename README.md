@@ -13,3 +13,5 @@ Classification of Potato Disease Classification using **CNN**  based on
 **heroku app** : https://potato-disease-vroy.herokuapp.com/
 
 
+
+![Potato-confidence](https://user-images.githubusercontent.com/81759654/161441938-a25fab8e-03f1-4258-8fc9-aec1eca3b6da.png)
