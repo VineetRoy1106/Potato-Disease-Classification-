@@ -14,3 +14,5 @@ Classification of Potato Disease Classification using **CNN**  based on
 
 
 ![image](https://user-images.githubusercontent.com/81759654/161442208-38101a28-701a-46dc-a323-04eef87bde22.png)
+
+![image](https://user-images.githubusercontent.com/81759654/161442338-c17c637c-6aa4-427a-82ef-1c549f9e9b8a.png)
