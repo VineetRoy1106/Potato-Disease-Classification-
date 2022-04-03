@@ -9,6 +9,7 @@ Classification of Potato Disease Classification using CNN  based on
 3) Healthy Blight
 
 dataset : https://www.kaggle.com/abdallahalidev/plantvillage-dataset
+
 heroku app : https://potato-disease-vroy.herokuapp.com/
 
 
